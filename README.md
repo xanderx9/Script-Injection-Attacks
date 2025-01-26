@@ -11,7 +11,7 @@ python3 SIA.py
 
 
 
-Enter the path to the BTC addresses text file: 50btcadds.txt
+Enter the path to the BTC addresses text file: btc.txt
 Total addresses to check: 533762
 Suspicious address found: 1111111111111111111114oLvT2
 Suspicious address found: 1111111111111111115KMYP7R278
